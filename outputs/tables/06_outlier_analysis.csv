@@ -1,0 +1,5 @@
+Drug Regimen,Q1 (mm³),Q3 (mm³),IQR (mm³),Lower Fence,Upper Fence,Outlier Count,Outlier Values
+Capomulin,32.38,40.16,7.78,20.7,51.83,0,[]
+Ramicane,31.56,40.66,9.1,17.91,54.31,0,[]
+Infubinol,54.05,65.53,11.48,36.83,82.74,1,[np.float64(36.32)]
+Ceftamin,48.72,64.3,15.58,25.36,87.67,0,[]

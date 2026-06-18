@@ -1,0 +1,7 @@
+,Drug A,Drug B,t-stat,p-value,Significant (α=0.05)
+0,Capomulin,Ramicane,0.2957,0.768735,No
+1,Capomulin,Infubinol,-10.4134,0.0,Yes
+2,Capomulin,Ceftamin,-10.4064,0.0,Yes
+3,Ramicane,Infubinol,-10.6688,0.0,Yes
+4,Ramicane,Ceftamin,-10.6673,0.0,Yes
+5,Infubinol,Ceftamin,0.1768,0.860423,No
