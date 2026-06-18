@@ -93,7 +93,7 @@ python src/eda.py
 jupyter notebook notebooks/PymaceuticalsAnalysis.ipynb
 ```
 
-### 5. SQL — PostgreSQL
+### 5. SQL
 ```bash
 psql -U your_user -d your_db -f sql/01_schema.sql
 psql -U your_user -d your_db -f sql/02_load_data.sql
